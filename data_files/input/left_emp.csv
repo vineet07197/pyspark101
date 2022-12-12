@@ -1,0 +1,4 @@
+emp_id,f_name,l_name,emp_dept,doj,city,salary,mngr_id,total_exp,location
+103,Puneet,tandon,dev,20/02/2017,Varanasi,40000,102,= 5.0,1
+107,Naveen,shah,dev,21/02/2019,Patna,45000,101,= 3.0,1
+112,Saranya,ravichandran,dev,27/08/2017,Rameshwaram,55000,110,= 5.0,1
